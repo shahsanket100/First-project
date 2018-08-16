@@ -14,3 +14,4 @@ def zxcv(a='asdf', b='qwer'):
     print(a, b)
 
 zxcv()
+print('asdf')
